@@ -1,0 +1,1 @@
+FROM gcr.io/abayer-pipeline-crd/tekton-for-jx/controller:v20200414-2b72e7c6
